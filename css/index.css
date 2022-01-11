@@ -1,0 +1,25 @@
+footer {
+  position: absolute;
+  width: 100%;
+  height: 60px;
+  line-height: 60px;
+  margin-top: 50px;
+}
+
+.jumbotron {
+  color:rgb(39, 92, 61);
+  background-color: rgb(211, 235, 176);
+}
+
+
+.cardContainer {
+  margin-bottom: 15px;
+}
+.card {
+  margin: 0 auto;
+}
+
+.navbar.navbar-expand-lg.navbar-light.bg-light {
+  background-color: rgb(211, 235, 176) !important;
+}
+
